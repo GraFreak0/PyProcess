@@ -54,7 +54,7 @@ Ensure the input data is structured as follows:
 |       ├── file2.csv
 |       └── ...
 ├── /main
-|   └── process.py
+|   └── process.ipynb
 └── /output
 
 ```
